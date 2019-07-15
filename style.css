@@ -1,0 +1,113 @@
+.card {    
+		   background-color: #fff4f4;
+		   font-family: 'Abel', sans-serif;
+		   border:5px solid black;
+		   display: flex;
+  		   justify-content: center;
+		   display: inline-block;
+		
+		   padding: 40px;
+		   margin: 40px; 
+		   height: 60em;
+		   text-align: center;
+		   
+
+		  
+
+
+		   
+		   }
+
+
+.container {
+	color: black;
+	font-family: 'Lobster', cursive;
+	/*margin: 20px;*/
+	/*padding: 10px;*/
+	font-size: 1.0em;
+	/*padding-left: 20px;*/
+	display: inline-block;
+	text-align: center;
+	align-content: center;
+
+
+	}
+
+{
+    padding: 100px;
+   
+}
+
+ {
+    height: 70px;
+    text-align: center;
+    padding-top: 25px;
+}
+
+}
+{	font-family: 'Abel', sans-serif;
+
+}
+body { background-color: #efefef }
+
+.top {	font-family: 'Anton', sans-serif;
+		font-size: 2.9em;
+		text-align: center;
+		padding-top: 30px;
+		}
+.image{ 
+		display:inline-block;
+		align-content: center;
+		}
+
+ h2 {
+		text-align: center;
+		font-family: 'Abel', sans-serif;
+
+	}
+.btn    {
+		display: inline-block;
+		align-content: center;
+		padding-left: 10px;}
+
+h1 		{
+		 font-family: 'Anton', sans-serif;
+		 font-size: 3.2em;
+		 text-align: center;
+		 padding: 40px;
+		 padding-top: 60px;
+		}
+
+
+
+
+
+
+
+/*var user_answer= prompt("Choose an option? rock=1 paper=2 scissors=3");
+var computer_answer=(prompt)Math.random(); // returns a random number
+var game = ( "lets play a game")
+
+
+console.log ( "user_answer"); 
+
+
+}
+if ( rock || paper || scissors || === rock paper || scissocrs || ) {
+	console.log ( " We tied!");
+}
+else if  ( scisscors ) {
+	console.log( "you win");
+}
+else ( scissors=== scissors)
+	console.log ( "I win")
+*/
+
+
+
+}
+
+
+
+	
+}
